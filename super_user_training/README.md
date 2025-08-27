@@ -26,14 +26,14 @@ This structured timeline allows trainees to progressively build competency, with
 
 Becoming a superuser involves a multi-step process that ensures both administrative compliance and technical readiness. The pathway includes initial consultation, agreement forms, and formal training via your choice of scheduled or on-demand programs.
 
-**Steps to become a Superuser:**
+### Steps to become a Superuser:
 
-1. Initial Consultation – Meet with a lab manager or training coordinator to assess your needs and goals.
-2. Superuser Agreement Form – Part 1 – A preliminary agreement outlining expectations and responsibilities.
-3. iLab Request Submission – Register your intent and select your training pathway (bi-yearly or on-demand).
-4. Training Program – Attend your chosen training, where you’ll complete hands-on sessions and assessments.
-5. Superuser Agreement Form – Part 2 – A final confirmation of your competency and agreement to lab protocols.
-6. Superuser Status Granted – You now have flexible, independent access to instrumentation as a certified superuser.
+1. **Initial Consultation** – Meet with a lab manager or training coordinator to assess your needs and goals.
+2. **Superuser Agreement Form – Part 1** – A preliminary agreement outlining expectations and responsibilities.
+3. **iLab Request Submission** – Register your intent and select your training pathway (bi-yearly or on-demand).
+4. **Training Program** – Attend your chosen training, where you’ll complete hands-on sessions and assessments.
+5. **Superuser Agreement Form – Part 2** – A final confirmation of your competency and agreement to lab protocols.
+6. **Superuser Status Granted** – You now have flexible, independent access to instrumentation as a certified superuser.
 
 ![Superuser Training Workflow](images/Superuser_Training_Program_Procedure.png)
 

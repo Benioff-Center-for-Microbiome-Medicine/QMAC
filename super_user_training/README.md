@@ -42,3 +42,7 @@ Becoming a superuser involves a multi-step process that ensures both administrat
 
 For more details, including upcoming schedules, please visit [our website](https://microbiome.ucsf.edu/quantitative-metabolite-analysis-center-colab-plug). You can also subscribe to the BCMM Newsletter to receive schedule updates and announcements directly in your inbox!
 
+
+## On-demand Training Program
+
+Please contact Ju Eun Jeon (jueun.jeon@ucsf.edu) directly to initate the consultation.

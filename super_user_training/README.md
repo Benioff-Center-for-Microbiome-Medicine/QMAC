@@ -17,7 +17,7 @@ The curriculum includes:
 
 This structured timeline allows trainees to progressively build competency, with tasks overlapping strategically across platforms to maximize lab access and learning.
 
-![Training Curriculum Schedule](images/training-schedule.png)
+![Training Curriculum Schedule](images/Superuser Training Program Curriculum.png)
 
 
 ## How to become a superuser
@@ -33,6 +33,6 @@ Becoming a superuser involves a multi-step process that ensures both administrat
 5. Superuser Agreement Form – Part 2 – A final confirmation of your competency and agreement to lab protocols.
 6. Superuser Status Granted – You now have flexible, independent access to instrumentation as a certified superuser.
 
-![Superuser Training Workflow](images/superuser-workflow.png)
+![Superuser Training Workflow](images/Superuser Training Program Procedure.png)
 
 

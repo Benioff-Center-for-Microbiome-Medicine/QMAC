@@ -35,7 +35,7 @@ Becoming a superuser involves a multi-step process that ensures both administrat
 5. **Superuser Agreement Form – Part 2** – A final confirmation of your competency and agreement to lab protocols.
 6. **Superuser Status Granted** – You now have flexible, independent access to instrumentation as a certified superuser.
 
-![Superuser Training Workflow](/images/Superuser_Training_Program_Procedure.png)
+![Superuser Training Workflow](images/Superuser_Training_Program_Procedure.png)
 
 
 ## Bi-yearly Training Program

@@ -1,7 +1,9 @@
 # Super User Training
+
 Welcome to the Super User Training repository. This training program is designed for advanced users who wish to gain independent access to our instruments with maximum scheduling flexibility and minimal supervision. Superusers are trusted and proficient operators who understand not only the technical use of the equipment but also the lab’s safety and data quality standards.
 
 ## Overview of the curriculum
+
 The training curriculum is designed to be hands-on, structured, and modular, ensuring thorough understanding and practical proficiency across all instrument platforms. Below is the weekly training schedule that outlines key tasks and milestones across three primary platforms:
 
 * LC-TQMS (Liquid Chromatography – Triple Quadrupole Mass Spectrometry)
@@ -35,4 +37,8 @@ Becoming a superuser involves a multi-step process that ensures both administrat
 
 ![Superuser Training Workflow](images/Superuser_Training_Program_Procedure.png)
 
+
+## Bi-yearly Training Program
+
+For more details, including upcoming schedules, please visit [our website](https://microbiome.ucsf.edu/quantitative-metabolite-analysis-center-colab-plug). You can also subscribe to the BCMM Newsletter to receive schedule updates and announcements directly in your inbox!
 

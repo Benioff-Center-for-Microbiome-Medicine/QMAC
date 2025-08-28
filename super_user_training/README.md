@@ -21,6 +21,8 @@ This structured timeline allows trainees to progressively build competency, with
 
 ![Training Curriculum Schedule](images/Superuser_Training_Program_Curriculum.png)
 
+Please note that to maintain superuser status, you are required to use the trained instrument at least once every 6 months.
+
 
 ## How to become a superuser
 
